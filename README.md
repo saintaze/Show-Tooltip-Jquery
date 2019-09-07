@@ -13,7 +13,7 @@ showToolTip is function that can be invoked on any Jquery matched element(s) to 
 + Its color and dimensions can be easily customised in the CSS.
 + Easy to use API.
 
-![Play with the Tooltip](https://media.giphy.com/media/kfuf1JHcomq4ikNjhn/giphy.gif)
+![Play with the Tooltip](https://media.giphy.com/media/XDM26hJA4z7tVzXrTI/giphy.gif)
 
 ### How to Use
 + include Jquery in your code then include the tooltip JS code.
