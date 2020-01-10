@@ -36,6 +36,6 @@ Change the host element top, left, right, bottom margin and change viewport widt
 #### URL: [Play with the Tooltip](https://tooltip.ayezahmed.now.sh)
 
 # Author
-+ Saintaze [@saintaze](https://github.com/saintaze/)
+Saintaze [@saintaze](https://github.com/saintaze/)
 
 
